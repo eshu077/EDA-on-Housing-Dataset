@@ -3,7 +3,7 @@
 Is project me maine housing dataset par Exploratory Data Analysis (EDA) perform kiya hai.
 Goal tha data ke patterns, relationships aur key insights ko samajhna—jo aage ke machine learning models ke liye strong foundation banata hai.
 
-📊 Steps & Insights
+**📊 Steps & Insights**
 
 Data Cleaning – Missing values handle kiye, outliers detect & treat kiye
 
@@ -15,7 +15,7 @@ Bivariate/Multivariate Analysis – Correlation heatmap, pairplots, scatterplots
 
 Key Findings – Price ke major drivers identify kiye (jaise location, area, rooms, etc.)
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Language: Python
 
